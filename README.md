@@ -30,7 +30,7 @@ CoreDNS v1.2.2
 
 우리 환경 :  
 
-syntax: [Document](http://27.255.70.23)
+syntax: [Document](http://59.29.249.221:42223)
 
        환경 : ubuntu based on VirtualBox
        
